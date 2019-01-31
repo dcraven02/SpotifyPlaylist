@@ -1,7 +1,7 @@
 """
-<   This code parameters.py is to be used for learning purposes only and should not be
+<   This code spotify_playlist.py is to be used for learning purposes only and should not be
     used a tool for any commercial purpose.
-    All rights reserved ® 2018  David Craven
+    All rights reserved ® 2019  David Craven
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
